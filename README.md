@@ -1,6 +1,7 @@
 # bah
+![headshot](bah.jpg)
 
-One Paragraph of project description goes here
+BHABHABHAHBAHBHABHAHBHBAHAHa
 
 ## Getting Started
 
