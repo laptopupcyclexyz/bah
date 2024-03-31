@@ -1,5 +1,5 @@
 # bah
-![headshot](bah.jpg)
+![headshot](bahducely.jpg)
 
 BHABHABHAHBAHBHABHAHBHBAHAHa
 
